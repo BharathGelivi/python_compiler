@@ -1,4 +1,4 @@
-# Mini Math Compiler in Python
+# Math Compiler in Python
 
 A simple compiler and virtual machine implemented in Python that can handle basic math expressions, variables, and print statements.
 
